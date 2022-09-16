@@ -1,3 +1,4 @@
+
 # JavaScript haladó tananyag
 ## Leckék
 ### 1. Változók			
